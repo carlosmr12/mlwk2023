@@ -1,5 +1,6 @@
 matplotlib
 notebook
+jupyterlab
 numpy
 pandas
 requests
@@ -10,3 +11,4 @@ rdkit-pypi
 statsmodels
 tabulate
 ipywidgets
+plotly
