@@ -4,7 +4,6 @@ jupyterlab
 jupyterlab-latex
 numpy
 pandas
-requests
 scikit-learn
 scipy
 seaborn
