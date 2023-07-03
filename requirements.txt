@@ -1,6 +1,7 @@
 matplotlib
 notebook
 jupyterlab
+jupyterlab-latex
 numpy
 pandas
 requests
@@ -10,5 +11,5 @@ seaborn
 rdkit-pypi
 statsmodels
 tabulate
-ipywidgets
 plotly
+ipywidgets
